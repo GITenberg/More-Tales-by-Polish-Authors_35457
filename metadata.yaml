@@ -7,7 +7,7 @@ contributor:
     - Reymont, Wladyslaw Stanislaw
     - Reymont, Ladislas
     birthdate: 1867
-    deathdate: &id001 1925
+    deathdate: 1925
     gutenberg_agent_id: '31559'
     url: http://www.gutenberg.org/2009/agents/31559
     wikipedia: http://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_Reymont
@@ -24,7 +24,7 @@ contributor:
   - agent_name: Żeromski, Stefan
     alias: Zeromski, Stefan
     birthdate: 1864
-    deathdate: *id001
+    deathdate: 1925
     gutenberg_agent_id: '37699'
     url: http://www.gutenberg.org/2009/agents/37699
     wikipedia: http://en.wikipedia.org/wiki/Stefan_%C5%BBeromski
@@ -54,6 +54,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35457#More-Tales-by-Polish-Authors
 gutenberg_issued: '2011-03-02'
 gutenberg_type: Text
 identifiers:

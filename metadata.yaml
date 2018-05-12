@@ -1,0 +1,72 @@
+_repo: More-Tales-by-Polish-Authors_35457
+_version: 0.1.0
+contributor:
+  contributors:
+  - agent_name: Reymont, Władysław Stanisław
+    aliases:
+    - Reymont, Wladyslaw Stanislaw
+    - Reymont, Ladislas
+    birthdate: 1867
+    deathdate: &id001 1925
+    gutenberg_agent_id: '31559'
+    url: http://www.gutenberg.org/2009/agents/31559
+    wikipedia: http://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_Reymont
+  - agent_name: Prus, Bolesław
+    aliases:
+    - Prus, Boleslaw
+    - Głowacki, Aleksander
+    - Glowacki, Aleksander
+    birthdate: 1847
+    deathdate: 1912
+    gutenberg_agent_id: '25958'
+    url: http://www.gutenberg.org/2009/agents/25958
+    wikipedia: http://en.wikipedia.org/wiki/Boles%C5%82aw_Prus
+  - agent_name: Żeromski, Stefan
+    alias: Zeromski, Stefan
+    birthdate: 1864
+    deathdate: *id001
+    gutenberg_agent_id: '37699'
+    url: http://www.gutenberg.org/2009/agents/37699
+    wikipedia: http://en.wikipedia.org/wiki/Stefan_%C5%BBeromski
+  - agent_name: Sieroszewski, Wacław
+    alias: Sieroszewski, Waclaw
+    birthdate: 1858
+    deathdate: 1945
+    gutenberg_agent_id: '37701'
+    url: http://www.gutenberg.org/2009/agents/37701
+    wikipedia: http://pl.wikipedia.org/wiki/Wac%C5%82aw_Sieroszewski
+  - agent_name: Szymański, Adam
+    alias: Szymanski, Adam
+    birthdate: 1852
+    deathdate: 1916
+    gutenberg_agent_id: '37700'
+    url: http://www.gutenberg.org/2009/agents/37700
+  translators:
+  - agent_name: Busch, Marie
+    gutenberg_agent_id: '4632'
+    url: http://www.gutenberg.org/2009/agents/4632
+  - agent_name: Benecke, Else C. M. (Else Cecilia Mendelssohn)
+    birthdate: 1873
+    deathdate: 1917
+    gutenberg_agent_id: '2713'
+    url: http://www.gutenberg.org/2009/agents/2713
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2011-03-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35457'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Polish fiction -- Translations into English'
+- !lcc 'PG'
+tableOfContents: Maciej the Mazur / Adam Szymański -- Two prayers / Adam Szymański
+  -- The trial / W. St. Reymont -- The stronger sex / Stefan Żeromski -- The Chukchee
+  / W. Sieroszewski -- The returning wave / Bolesław Prus [pseud.]
+title: More Tales by Polish Authors
+url: http://www.gutenberg.org/ebooks/35457
